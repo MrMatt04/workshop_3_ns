@@ -1,0 +1,102 @@
+#screen {
+    width: 945px;
+    height: 340px;
+    border: 3px black solid;
+}
+#leftmod {
+    width: 140px;
+    height: 340px;
+    border: 1px black solid;
+    display: inline-block;
+    background: blue;
+    vertical-align: top;
+}
+#track {
+    width: 106px;
+    height: 106px;
+    /* border: 1px black solid; */
+    margin-top: 30px;
+    margin-left: 16px;
+    background-color: white;
+}
+#small {
+    width: 25px;
+    height: 25px;
+    /* border: 1px black solid; */
+    background: blue;
+}
+#middlemod {
+    width: 560px;
+    height: 340px;
+    border: 1px black solid;
+    display: inline-block;
+    margin: 0;
+    background: black;
+    vertical-align: top;
+}
+#infobox {
+ width: 500px;
+ height: 280px;
+ border: 1px black solid;
+ margin: 30px;
+ background: white
+}
+#time {
+    width: 248px;
+    height: 50px;
+    /* border: solid 1px black; */
+    float: left;
+}
+#intercity {
+    width: 248px;
+    height: 50px;
+    /* border: solid 1px black; */
+    float: right;    
+}
+#intercity,img {
+    width: auto; 
+    height: 45px;
+    float: right;
+    margin-left: 43px;
+    
+}
+#intercity,p {
+    float: left;
+    font-size: 20px;
+}
+#infoblock{
+    width: 500px;
+    height: 204px;
+    border: solid 1px black;
+    vertical-align: top;
+}
+#infoblock,h1 {
+    text-align: left;
+    margin-right: 137px;
+}
+#nexttrain1 {
+    width: 498.01px;
+    height: 35px;
+    /* border: solid 1px black; */
+    
+}
+#nexttrain2 {
+    width: 498.01px;
+    height: 35px;
+    border: solid 1px black;
+}
+#rightmod {
+    width: 245px;
+    height: 340px;
+    border: 1px black solid;
+    display: inline-block;
+    margin: 0;
+
+}
+#clock {
+    width: 205px;
+    height: 205px;
+    margin: 20px;
+    border: solid 1px black;
+    border-radius: 100%;
+}
